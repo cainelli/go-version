@@ -15,5 +15,5 @@ func Minor() string {
 }
 
 func Patch() string {
-	return "0"
+	return "1"
 }
