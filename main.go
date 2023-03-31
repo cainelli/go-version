@@ -7,11 +7,11 @@ func String() string {
 }
 
 func Major() string {
-	return "1"
+	return "2"
 }
 
 func Minor() string {
-	return "1"
+	return "0"
 }
 
 func Patch() string {
